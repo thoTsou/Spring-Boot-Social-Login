@@ -2,7 +2,7 @@
 
 Sample Spring Boot ( using Kotlin ) Web Application with a single feauture --> 
 
-Single Sign on with Github and Google.
+Single Sign on with Github.
 
-This app only displays a Login page and ask for user to choose to Sign In via Github or Google.
-If user get successfully authenticated via Github or Google he/she can see a simple message.
+This app only displays a Login page and ask for user to choose to Sign In via Github.
+If user gets successfully authenticated via Github he/she can see a simple message.

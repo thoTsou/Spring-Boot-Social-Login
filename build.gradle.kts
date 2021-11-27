@@ -20,6 +20,15 @@ dependencies {
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+	// https://mvnrepository.com/artifact/org.webjars/jquery
+	implementation("org.webjars:jquery:3.6.0")
+	// https://mvnrepository.com/artifact/org.webjars/bootstrap
+	implementation("org.webjars:bootstrap:5.1.3")
+	// https://mvnrepository.com/artifact/org.webjars/webjars-locator-core
+	implementation("org.webjars:webjars-locator-core")
+	// OAuth2 client
+	implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
+
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
