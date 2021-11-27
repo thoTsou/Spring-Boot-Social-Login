@@ -28,6 +28,7 @@ dependencies {
 	implementation("org.webjars:webjars-locator-core")
 	// OAuth2 client
 	implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
+	implementation("org.webjars:js-cookie:2.1.0")
 
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
